@@ -34,6 +34,7 @@ Added Customize Size of Crosshair (Must save)
 Adjusted Default Values.
 Fixed Magnifier And CrossHair not opening if toggle is saved on
 Reworked Crosshair toggle method
+Adjusted Sleep in main loop. Causing recoil to be inaccurate.
 
 Save Everything, saves Toggle state for  GUI Toggles
 Updated Save/Read Function for better looking INI file
