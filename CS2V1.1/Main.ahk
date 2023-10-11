@@ -438,7 +438,6 @@ Close2:
 return
 
 MainLoop() {
-MsgBox, Loop Running
 WinWait, ahk_exe cs2.exe
 loop {
 DllCall("kernel32\Sleep", "UInt", 5)
