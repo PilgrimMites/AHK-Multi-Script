@@ -440,7 +440,7 @@ return
 MainLoop() {
 WinWait, ahk_exe cs2.exe
 loop {
-DllCall("kernel32\Sleep", "UInt", 5)
+DllCall("kernel32\Sleep", "UInt", 1)
 While (TriggerBotT && GetKeyState(key_hold2, "P")) {
 PixelGetColor, colorx, %Center_X%, %Center_Y%, Fast . A_IsCritical
 PixelSearch, found_x, found_y, %Center_X%, %Center_Y%, %Center_X%, %Center_Y%, %colorx%, 1, Fast . A_IsCritical
