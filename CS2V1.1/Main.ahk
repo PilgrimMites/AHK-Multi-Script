@@ -1,4 +1,4 @@
-﻿#NoEnv
+#NoEnv
 #MaxThreadsPerHotkey 2
 #SingleInstance Force
 #KeyHistory 0
@@ -8,6 +8,10 @@
 Process,Priority,,High
 SetWorkingDir %A_ScriptDir%
 ListLines Off
+SetKeyDelay,-1, 1
+SetControlDelay, -1
+SetBatchLines,-1
+
 
 RunAsAdmin()
 
