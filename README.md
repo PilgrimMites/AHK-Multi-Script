@@ -1,7 +1,7 @@
 # AHK-Multi-Script
 Multi Script Written in AutoHotKey.
 Some Features can be used on any game.
-```
+ ```
 I am still learning AHK and coding in general. Im just a year into coding so sorry if this is sloppy.
 If you have code to share, or advice to give, Please contact me on UC.
 All comments & questions should be posted on Main Thread.
