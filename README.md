@@ -4,12 +4,12 @@ Some Features can be used on any game.
 ```
 I am still learning AHK and coding in general. Im just a year into coding so sorry if this is sloppy.
 If you have code to share, or advice to give, Please contact me on UC.
-All comments & questions should be posted on UC.
+All comments & questions should be posted on Main Thread.
 Questions that can be answered in the ReadMe/HowTo will be ignored.
 ```
-* [Main thread](https://www.unknowncheats.me/forum/counter-strike-2-releases/605440-ahk-multiscript-peans-rcs.html) - UnknownCheats -
+* [Main Thread](https://www.unknowncheats.me/forum/counter-strike-2-releases/605440-ahk-multiscript-peans-rcs.html) - UnknownCheats -
 * ![](https://i.imgur.com/ExUlp4f.png)
-``If Menu has errors, Delete Settings.ini.``
+``If MENU has Errors, Delete Settings.ini.``
 # Hotkeys: keyboard shortcuts that have to be changed in Source.
 * Menu: CTRL + F1
 * AutoAccept: CTRL + F2
