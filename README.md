@@ -15,7 +15,7 @@ Questions that can be answered in the ReadMe/HowTo will be ignored.
 * AutoAccept: CTRL + F2
 * Pause: Pause 
 * Terminate: End 
-* Restart: WinKey (Windows key) + R
+* Restart: Windows key + R
 
 # GUI Toggle ON | OFF: CheckBox toggle for scripts.
 * CrossHair
