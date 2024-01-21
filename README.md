@@ -34,7 +34,6 @@ Questions that can be answered in the ReadMe/HowTo will be ignored.
 * Recoil Safety 
 
 # Custom Keybinds: user-defined key bindings for specific in-game weapons or actions.
-* Universal RCS: F4
 * AK: Numpad 1
 * M4A1: Numpad 2
 * M4A4: Numpad 3
