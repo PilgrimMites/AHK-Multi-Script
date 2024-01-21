@@ -17,7 +17,7 @@ Questions that can be answered in the ReadMe/HowTo will be ignored.
 * ``Magnifier:`` **_ALT + F3_**
 * ``Pause:`` **_Pause_** 
 * ``Terminate:`` **_End_** 
-* ``Restart:`` ** _Windows key + R_**
+* ``Restart:`` **_Windows key + R_**
 
 # GUI Toggle ON | OFF: CheckBox toggle for scripts.
 * ``CrossHair``
