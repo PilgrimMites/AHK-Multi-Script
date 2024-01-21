@@ -12,12 +12,12 @@ Questions that can be answered in the ReadMe/HowTo will be ignored.
  `` Menu Preview``
   * ![](https://i.imgur.com/tN9YTre.png) ![](https://i.imgur.com/ExUlp4f.png)
 # Hotkeys: keyboard shortcuts that have to be changed in Source.
-* ``Menu:`` ALT + F1
-* ``AutoAccept:`` ALT + F2
-* ``Magnifier:`` ALT + F3
-* ``Pause:`` Pause 
-* ``Terminate:`` End 
-* ``Restart:`` Windows key + R
+* ``Menu:`` **_ALT + F1_**
+* ``AutoAccept:`` **_ALT + F2_**
+* ``Magnifier:`` **_ALT + F3_**
+* ``Pause:`` **_Pause_** 
+* ``Terminate:`` **_End_** 
+* ``Restart:`` ** _Windows key + R_**
 
 # GUI Toggle ON | OFF: CheckBox toggle for scripts.
 * ``CrossHair``
@@ -32,21 +32,21 @@ Questions that can be answered in the ReadMe/HowTo will be ignored.
 * ``Recoil Safety``
 
 # Custom Keybinds: user-defined key bindings for specific in-game weapons or actions.
-* ``AK:`` **Numpad 1**
-* ``M4A1:`` **Numpad 2**
-* ``M4A4:`` **Numpad 3**
-* ``Famas:`` **Numpad 4**
-* ``Galil:`` **Numpad 5**
-* ``UMP:`` **Numpad 6**
-* ``AUG:`` **Numpad 7**
-* ``SG:`` **Numpad 8**
-* ``Universal RCS:`` **Numpad 9**
-* ``RSCoff:`` **Numpad 0**
-* ``TurnAround:`` **V** 
-* ``RapidFire:`` **XButton1**
-* ``PixelBot:`` **XButton2** 
-* ``BHOP:`` **Space key**
-* ``Recoil Safety:`` **B**
+* ``AK``: **_Numpad 1_**
+* ``M4A1``: **_Numpad 2_**
+* ``M4A4``: **_Numpad 3_**
+* ``Famas``: **_Numpad 4_**
+* ``Galil``: **_Numpad 5_**
+* ``UMP``: **_Numpad 6_**
+* ``AUG``: **_Numpad 7_**
+* ``SG``: **_Numpad 8_**
+* ``Universal RCS``: **_Numpad 9_**
+* ``RSCoff``: **_Numpad 0_**
+* ``TurnAround``: **V** 
+* ``RapidFire``: **_XButton1_**
+* ``PixelBot``: **_XButton2_** 
+* ``BHOP``: **_Space key_**
+* ``Recoil Safety``: **_B_**
 
 > [!IMPORTANT]
 > # Troubleshooting and Recommendations 
