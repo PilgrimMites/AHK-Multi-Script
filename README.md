@@ -1,7 +1,8 @@
 # AHK-Multi-Script
+# [Requires AHKv1](https://www.autohotkey.com/download/ahk-install.exe)
+
 > Multi Script Written in AutoHotKey.
 > Some Features can be used on any game.
-**[Requires AHKv1]([https://www.unknowncheats.me/forum/counter-strike-2-releases/605440-ahk-multiscript-peans-rcs.html](https://www.autohotkey.com/download/ahk-install.exe))
 
  ```
 I am still learning AHK and coding in general. Im just a year into coding so sorry if this is sloppy.
