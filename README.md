@@ -29,7 +29,7 @@ Questions that can be answered in the ReadMe/HowTo will be ignored.
 # GUI Toggle ON | OFF: CheckBox toggle for scripts.
 * ``CrossHair`` (Tray Menu Toggle | Hotkeys)
 * ``RapidFire``
-* ``PixelBot`` 
+* ``PixelBot`` (ToolTip Notification)
 * ``TurnAround``
 * ``BHOP`` (Bunny Hop) | Legit & Perfect & ScrollWheel
 * ``CrouchCorrection`` (Work in Progress)
@@ -69,9 +69,9 @@ Questions that can be answered in the ReadMe/HowTo will be ignored.
 >   * " cl_crosshairalpha 250 - the crosshair is slightly transparent (Mine).
 > * ``Recoil to slow?``
 >   * Adjust GunSelection("M4A4", 3.64, 4.13,"M4A4 | On" ) by .05 on the 2nd parameter.
->   * Go to Extras Tab Click Mouse Properties &
->   * Set windows mouse sensitivity to middle (50%)
->   * Disable Enhance pointer precision
+>     * Go to Extras Tab Click Mouse Properties &
+>     * Set windows mouse sensitivity to middle (50%)
+>     * Disable Enhance pointer precision
 > * ``If MENU has Errors, Delete Settings.ini.``
 > * ``Download NotePad++ and open .AHK with NotePad++ @ the top youll see encoding. Set to UTF-8 LE BOM``
 > * ``Recoil Safety requires the designated key to be pressed then left click, in that order to engage the selected recoil.``
