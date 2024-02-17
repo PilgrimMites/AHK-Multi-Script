@@ -15,14 +15,14 @@ Questions that can be answered in the ReadMe/HowTo will be ignored.
  `` Menu Preview``
   * ![](https://i.imgur.com/tN9YTre.png) ![](https://i.imgur.com/ExUlp4f.png)
 # Hotkeys: keyboard shortcuts that have to be changed in Source.
-* ``Menu:`` **_Shift + F1_**
-* ``AutoAccept:`` **_Shift + F2_**
-* ``Magnifier:`` **_Shift + F3_**
-  * ``Zoom IN/OUT`` **_Shift + Scroll Wheel Down/UP_**
-* ``CrossHair`` **_Shift + F4_**
-* ``Pause:`` **_Pause_** 
-* ``Terminate:`` **_End_** 
-* ``Restart:`` **_Windows key + R_**
+* ``Menu:`` ***Shift + F1*** 
+* ``AutoAccept:`` ***Shift + F2*** 
+* ``Magnifier:`` ***Shift + F3*** 
+  * ``Zoom IN/OUT`` ***Shift + Scroll Wheel Down/UP*** 
+* ``CrossHair`` ***Shift + F4*** 
+* ``Pause:`` ***Pause***
+* ``Terminate:`` ***End***
+* ``Restart:`` ***Windows key + R*** 
 
 
 
@@ -39,21 +39,22 @@ Questions that can be answered in the ReadMe/HowTo will be ignored.
 * ``Recoil Safety`` (See Troubleshooting and Recommendations)
 
 # Custom Keybinds: user-defined key bindings for specific in-game weapons or actions.
-* ``AK``: **_Numpad 1_**
-* ``M4A1``: **_Numpad 2_**
-* ``M4A4``: **_Numpad 3_**
-* ``Famas``: **_Numpad 4_**
-* ``Galil``: **_Numpad 5_**
-* ``UMP``: **_Numpad 6_**
-* ``AUG``: **_Numpad 7_**
-* ``SG``: **_Numpad 8_**
-* ``Universal RCS``: **_Numpad 9_**
-* ``RSCoff``: **_Numpad 0_**
+* ``Gun`` | ***Hotkey*** | **Accuracy**
+* ``AK``: ***Numpad 1*** | **90%**
+* ``M4A1``: ***Numpad 2*** | **95%**
+* ``M4A4``: ***Numpad 3*** | **80%**
+* ``Famas``: ***Numpad 4*** | **75%**
+* ``Galil``: ***Numpad 5*** | **99%**
+* ``UMP``: ***Numpad 6*** | **90%**
+* ``AUG``: ***Numpad 7*** | **90% | Zoom 95%**
+* ``SG``: ***Numpad 8*** | **75% | Zoom 85%**
+* ``Universal RCS``: ***Numpad 9*** 
+* ``RSCoff``: ***Numpad 0*** 
 * ``TurnAround``: **V** 
-* ``RapidFire``: **_XButton1_**
-* ``PixelBot``: **_XButton2_** 
-* ``BHOP``: **_Space key_**
-* ``Recoil Safety``: **_B_**
+* ``RapidFire``: ***XButton1*** 
+* ``PixelBot``: ***XButton2***
+* ``BHOP``: ***Space key*** 
+* ``Recoil Safety``: ***B*** 
 
 > [!IMPORTANT]
 > # Troubleshooting and Recommendations
