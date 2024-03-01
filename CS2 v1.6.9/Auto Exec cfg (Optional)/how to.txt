@@ -1,0 +1,8 @@
+1. Open Steam Library
+2. Right Click CS2
+3. Click Manage
+4. Open Local Files
+5. Copy and paste autoexec.cfg into " Counter-Strike Global Offensive\game\csgo\cfg "
+6. Run CS2
+7. Open the game console by pressing the tilde (~) key. 
+8. Type "exec autoexec" and press enter.
