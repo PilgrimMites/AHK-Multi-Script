@@ -38,7 +38,7 @@ Global WhichToolTip := 20, ProgressRange := 100
 
 e1 :=  Chr(84) . Chr(72) . Chr(73) . Chr(83) . Chr(32) . Chr(83) . Chr(82) . Chr(73) . Chr(80) . Chr(84) . Chr(32) . Chr(73) . Chr(83) . Chr(32) . Chr(70) . Chr(82) . Chr(69) . Chr(69)
 
-Version := "V1.6.9"
+Version := "V1.6.10"
 /*
 Note: Making this script more universal has become my latest goal. I still plan on improving RCS and making it shorter, with a new function. This will shorten this script about 3k lines.
 Note: I have been playing with default keys to best fit without having to rebind NVIDIA or IN-Game settings
