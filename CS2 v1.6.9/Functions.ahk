@@ -300,7 +300,7 @@ CustomSave(Value, Section, Name) {
         }
         else
         {
-            MsgBox,,,Saving`nName : %Name%`nsection : %section%`nValue : %Value%, 1
+            ; MsgBox,,,Saving`nName : %Name%`nsection : %section%`nValue : %Value%, 1
         }
     } else {
         MsgBox, 4, Error, Settings.ini does NOT exist.`nWould you like to Create it?
@@ -323,7 +323,7 @@ CustomRead(Value, Section, Name) {
         }
         else
         {
-            MsgBox,,,Reading`nName : %Name%`nsection : %section%`nValue : %Value%, 1
+            ; MsgBox,,,Reading`nName : %Name%`nsection : %section%`nValue : %Value%, 1
 
 
         }
