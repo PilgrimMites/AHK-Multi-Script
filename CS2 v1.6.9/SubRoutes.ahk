@@ -495,7 +495,7 @@ UnHook:
 Return
 
 HideToolTip:
-ToolTip, , , , %WhichToolTip%
+ShowToolTip("", 0, 40, 4)
 SetTimer, HideToolTip, Off
 ToolTip := False
 return
